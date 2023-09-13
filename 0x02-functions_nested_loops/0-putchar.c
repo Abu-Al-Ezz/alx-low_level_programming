@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
+ * main - print _putchar
  * Done by Abdullah Abouezz
- */
+ * Return: 0
+*/
 
 int main(void)
 {
@@ -14,4 +16,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-}		
+}
